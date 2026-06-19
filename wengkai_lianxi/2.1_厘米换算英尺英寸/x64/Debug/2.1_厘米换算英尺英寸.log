@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Administrator\source\repos\2.0_整数四则运算\2.1_厘米换算英尺英寸\main.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Administrator\source\repos\2.0_整数四则运算\2.1_厘米换算英尺英寸\main.cpp(5,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\source\repos\2.0_整数四则运算\2.1_厘米换算英尺英寸\main.cpp(6,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  2.1_厘米换算英尺英寸.vcxproj -> C:\Users\Administrator\source\repos\2.0_整数四则运算\x64\Debug\2.1_厘米换算英尺英寸.exe
